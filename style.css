@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #000000;
+  font-family: "Roboto", sans-serif;
+  color: rgb(79, 218, 51);
+  margin: 3rem;
+}
+
+.intro {
+  color: aqua;
+  font-size: 40pt;
+  font-weight: bolder;
+  margin-top: 2rem;
+  padding-left: 20rem;
+}
+.intro2 {
+  color: blueviolet;
+  font-size: 30pt;
+  font-weight: bolder;
+  padding-left: 5rem;
+}
+#mouse-icon {
+  margin-top: -1rem;
+  margin-bottom: -1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#mouse-icon > img {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 250px;
+  height: 250px;
+}
+.about-small{
+  color: rgb(143, 240, 240);
+  font-size: 20pt;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding-bottom: 5rem;
+  padding-left: 15rem;
+}
+.about-main{
+   font-weight: bolder;
+   flex-direction: column-reverse;
+}
+.about-wrapper{
+  font-size: 10pt;
+  color: rgb(190, 101, 146);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.about-para{
+  font-size: 20pt;
+  padding-top: 5rem;
+  color: rgb(80, 62, 240);
+  font-family: font-family: 'Smokum', cursive;;
+}
+.about-image{
+  margin-left: 50rem;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+}
+.linkgt{
+  font-size: 2rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-stretch: ultra-expanded;
+}

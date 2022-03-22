@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+boby{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 4rem;
+}
+.nav-section{
+    background: yellow;
+    margin: 4rem;
+}
